@@ -8,3 +8,4 @@ tmp/
 *.tmp
 .cache/
 coverage/
+*.bak
